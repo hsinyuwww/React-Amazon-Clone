@@ -12,7 +12,8 @@ Option 2: Use the Shared Testing Account
 
 - Account: test1@gmail.com
 - Password: 123123
-Thank you for your interest in our project! Happy testing!
+
+Happy testing!
 
 ## Technologies Used
 
