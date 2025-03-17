@@ -64,6 +64,132 @@
             <mxPoint x="177.74193548387098" y="95.45454545454545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-32" value="&lt;h3 style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border-100)); border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: hsl(var(--accent-secondary-100)/1); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; outline-color: hsl(var(--accent-main-100)); scrollbar-color: hsl(var(--border-300)/.8) transparent; font-size: 0.875rem; font-weight: inherit; margin: 0px; overflow: hidden; text-overflow: ellipsis; padding-left: 0.25rem; font-family: var(--font-tiempos),ui-serif,Georgia,Cambria,&amp;quot;Times New Roman&amp;quot;,Times,serif; line-height: 1.25rem; --tw-text-opacity: 1; color: rgb(41, 38, 27); letter-spacing: -0.4px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;text-text-100 font-tiempos truncate pl-1 text-sm&quot;&gt;Binary Search Tree of Height 2&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="85" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-33" value="&lt;h3 style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border-100)); border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: hsl(var(--accent-secondary-100)/1); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; outline-color: hsl(var(--accent-main-100)); scrollbar-color: hsl(var(--border-300)/.8) transparent; font-size: 0.875rem; font-weight: inherit; margin: 0px; overflow: hidden; text-overflow: ellipsis; padding-left: 0.25rem; font-family: var(--font-tiempos),ui-serif,Georgia,Cambria,&amp;quot;Times New Roman&amp;quot;,Times,serif; line-height: 1.25rem; --tw-text-opacity: 1; color: rgb(41, 38, 27); letter-spacing: -0.4px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;text-text-100 font-tiempos truncate pl-1 text-sm&quot;&gt;Binary Search Tree of Height 3&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-38" value="&lt;h3 style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border-100)); border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: hsl(var(--accent-secondary-100)/1); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; outline-color: hsl(var(--accent-main-100)); scrollbar-color: hsl(var(--border-300)/.8) transparent; font-size: 0.875rem; font-weight: inherit; margin: 0px; overflow: hidden; text-overflow: ellipsis; padding-left: 0.25rem; font-family: var(--font-tiempos),ui-serif,Georgia,Cambria,&amp;quot;Times New Roman&amp;quot;,Times,serif; line-height: 1.25rem; --tw-text-opacity: 1; color: rgb(41, 38, 27); letter-spacing: -0.4px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;text-text-100 font-tiempos truncate pl-1 text-sm&quot;&gt;Binary Search Tree of Height 4&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="60" width="164.51999999999998" height="184.51158357771263" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-19" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry x="85.80645161290323" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-20" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry x="36.774193548387075" y="57.27272727272728" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-21" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry y="114.54545454545456" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-22" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry x="61.29032258064518" y="114.54545454545456" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IQ2od2X-x4DALVRPlJut-40" source="IQ2od2X-x4DALVRPlJut-20" target="IQ2od2X-x4DALVRPlJut-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55.16129032258067" y="57.27272727272728" as="sourcePoint" />
+            <mxPoint x="85.80645161290323" y="25.454545454545453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.258064516129025" y="114.54545454545456" as="sourcePoint" />
+            <mxPoint x="42.90322580645159" y="82.72727272727275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-25" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="IQ2od2X-x4DALVRPlJut-40" source="IQ2od2X-x4DALVRPlJut-22" target="IQ2od2X-x4DALVRPlJut-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.03225806451616" y="120.9090909090909" as="sourcePoint" />
+            <mxPoint x="79.67741935483872" y="89.0909090909091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-27" value="16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry x="85.8025806451613" y="159.99545454545455" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-28" value="21" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry x="140.00387096774193" y="57.275454545454565" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="IQ2od2X-x4DALVRPlJut-40" source="IQ2od2X-x4DALVRPlJut-27" target="IQ2od2X-x4DALVRPlJut-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="151" as="sourcePoint" />
+            <mxPoint x="140.9677419354839" y="82.72727272727275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-26" value="17" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IQ2od2X-x4DALVRPlJut-40">
+          <mxGeometry x="117.51999999999998" y="114.55000000000001" width="22.48" height="22.48" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-36" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="IQ2od2X-x4DALVRPlJut-40" source="IQ2od2X-x4DALVRPlJut-28" target="IQ2od2X-x4DALVRPlJut-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="60" as="sourcePoint" />
+            <mxPoint x="110" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IQ2od2X-x4DALVRPlJut-40" source="IQ2od2X-x4DALVRPlJut-26" target="IQ2od2X-x4DALVRPlJut-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="131.79" as="sourcePoint" />
+            <mxPoint x="140" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-42" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="683.5464516129032" y="60" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-43" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="634.5141935483871" y="117.27272727272728" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-44" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="597.74" y="174.54545454545456" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-45" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="659.0303225806451" y="174.54545454545456" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQ2od2X-x4DALVRPlJut-43" target="IQ2od2X-x4DALVRPlJut-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652.9012903225807" y="117.27272727272728" as="sourcePoint" />
+            <mxPoint x="683.5464516129032" y="85.45454545454545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.998064516129" y="174.54545454545456" as="sourcePoint" />
+            <mxPoint x="640.6432258064516" y="142.72727272727275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-48" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQ2od2X-x4DALVRPlJut-45" target="IQ2od2X-x4DALVRPlJut-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="646.7722580645161" y="180.9090909090909" as="sourcePoint" />
+            <mxPoint x="677.4174193548388" y="149.0909090909091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-49" value="16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="683.5425806451613" y="219.99545454545455" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-50" value="21" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="737.7438709677419" y="117.27545454545456" width="24.516129032258068" height="24.516129032258068" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="IQ2od2X-x4DALVRPlJut-49" target="IQ2od2X-x4DALVRPlJut-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="707.74" y="211" as="sourcePoint" />
+            <mxPoint x="738.7077419354839" y="142.72727272727275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-52" value="17" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="715.26" y="174.55" width="22.48" height="22.48" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-53" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQ2od2X-x4DALVRPlJut-50" target="IQ2od2X-x4DALVRPlJut-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737.74" y="120" as="sourcePoint" />
+            <mxPoint x="707.74" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQ2od2X-x4DALVRPlJut-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQ2od2X-x4DALVRPlJut-52" target="IQ2od2X-x4DALVRPlJut-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702.74" y="191.79" as="sourcePoint" />
+            <mxPoint x="737.74" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
