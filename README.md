@@ -1,9 +1,92 @@
-# Full-Stack Amazon Clone
+# 🛒 Full-Stack Amazon Clone (AI-Enhanced)
 
-This project is a full-stack Amazon clone developed using React.js, Express.js, Firebase 10, and Stripe API. It features checkout functionality, payment integration, user authentication, and real-time database capabilities. The application is deployed on Firebase hosting.
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-To get started, follow these steps to set up your testing account:
+A modern, high-performance Amazon replica built with the MERN-equivalent stack (React, Express, Firebase). This project features a full e-commerce lifecycle, including an **AI-driven shopping assistant** to help users find products via natural language.
 
+---
+
+## 📑 Table of Contents
+- [✨ Key Features](#-key-features)
+- [🤖 AI Integration](#-ai-integration)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [🚀 Getting Started](#-getting-started)
+- [🧪 Testing Credentials](#-testing-credentials)
+
+---
+
+## ✨ Key Features
+* **Secure Authentication**: Full Sign-up/Sign-in functionality via Firebase Auth.
+* **Dynamic Basket**: Real-time cart updates with persistent storage.
+* **Stripe Integration**: Fully functional checkout flow with secure payment processing.
+* **Order History**: Real-time Firestore database to track past purchases.
+* **Responsive UI**: Optimized for mobile, tablet, and desktop views.
+
+## 🤖 AI Integration
+This version goes beyond a standard clone by featuring an **AI Shopping Agent**:
+* **Natural Language Search**: Users can ask "I'm looking for a gift for a tech-lover under $50."
+* **Context Awareness**: The assistant is primed with store inventory data to provide relevant recommendations.
+* **Tech**: Powered by Google's Gemini 3 Flash for near-instant responses.
+
+---
+
+## 🛠️ Technologies Used
+### **Frontend**
+* React.js (Hooks & Context API)
+* React Router (Navigation)
+* Currency-format (Price handling)
+
+### **Backend & Cloud**
+* **Firebase 10**: Auth, Firestore (NoSQL), Hosting.
+* **Cloud Functions**: Node.js environment for Stripe backend logic.
+* **Express.js**: Handling server-side API requests.
+
+### **Payments**
+* **Stripe API**: Processing card payments securely.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone <your-repository-url>
+cd <project-folder>
+```
+
+### 2. Install dependencies 
+```
+# Install frontend dependencies
+npm install
+
+# Install functions dependencies
+cd functions
+npm install
+cd ..
+```
+### 3. Configure Firebase & Stripe
+#### 1. Create a project in the Firebase Console.
+#### 2. Enable Authentication, Firestore, and Functions.
+#### 3. Create a .env file in the root directory and add your keys:
+```Plaintext
+REACT_APP_STRIPE_PUBLIC_KEY=your_public_key
+REACT_APP_FIREBASE_API_KEY=your_api_key
+REACT_APP_GEMINI_API_KEY=your_ai_key
+```
+#### 4. Set your Stripe Secret Key in Firebase Functions via the CLI:
+```
+firebase functions:config:set stripe.secret="your_secret_key"
+```
+
+### 4. Run Locally
+```
+npm start
+```
+
+## 🧪 Testing Credentials
 Option 1: Create Your Own Testing Account
 
 Click on "Sign Up." and follow the on-screen instructions to create your account with a unique email and secure password.
@@ -13,90 +96,5 @@ Option 2: Use the Shared Testing Account
 - Account: test1@gmail.com
 - Password: 123123
 
-Happy testing!
-
-## Technologies Used
-
-- Frontend:
-  - React.js
-- Backend:
-  - Express.js
-  - Firebase 10
-    - Authentication
-    - Firestore
-    - Hosting
-    - Functions
-- Other:
-  - React Router
-  - React Context API
-  - Stripe API for payments
-
-## Features
-
-1. User Authentication
-   - Sign up
-   - Sign in
-   - Sign out
-2. Product Management
-   - View products
-   - Add to cart
-   - Remove from cart
-3. Checkout Process
-   - Secure payment with Stripe
-4. Order Management
-   - View order history
-5. Responsive Design
-   - Mobile-friendly interface
-  
-## Getting Started
-
-Follow these steps to set up and run the project locally:
-
-1. **Clone the repository:**
-git clone <your-repository-url>
-
-2. **Install dependencies:**
-cd <project-folder>
-npm install
-
-3. **Configure Firebase:**
-- Create a new Firebase project in the Firebase Console
-- Enable the following Firebase services:
-  - Authentication
-  - Firestore
-  - Hosting
-  - Functions
-- Install Firebase CLI (if not already installed):
-  ```
-  npm install -g firebase-tools
-  ```
-- Login to Firebase:
-  ```
-  firebase login
-  ```
-- Initialize Firebase in your project:
-  ```
-  firebase init
-  ```
-- Add your Firebase configuration to the project:
-  - Create a `.env` file in the root directory
-  - Add your Firebase config values to this file
-
-4. **Set up Stripe:**
-- Create a Stripe account at [stripe.com](https://stripe.com)
-- Obtain your Stripe API keys
-- Add your Stripe public key to the `.env` file
-- Configure your Stripe secret key in Firebase Functions:
-  ```
-  firebase functions:config:set stripe.secret="your_stripe_secret_key"
-  ```
-
-5. **Start the development server:**
-```
-npm start
-```
-6. **Access the application:**
-- Open your web browser
-- Navigate to `http://localhost:3000`
-
-Now you should have the Amazon Clone running locally on your machine!
+## 📄 License
+Distributed under the MIT License.
